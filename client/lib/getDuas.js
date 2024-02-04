@@ -1,5 +1,5 @@
 
 export async function getDuas(id){
-    const result = await fetch(`http://localhost:5000/api/category/dua/${id}`);
+    const result = await fetch(`https://ird-backend-u5g7.onrender.com/api/category/dua/${id}`);
     return result.json();
 }
