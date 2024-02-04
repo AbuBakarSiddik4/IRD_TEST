@@ -8,6 +8,7 @@ A web application for memorizing duas, built with Nodejs, NextJS.
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Technologies Used](#technologies-used)
+  - [Screen Shots](#screen-shots)
   - [Error Handling](#error-handling)
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
@@ -22,6 +23,12 @@ The Dua Memorizing Web Application is a simple program that allows users to save
 - Express JS
 - NextJS
 - SQLite (Database)
+
+## Screen Shots
+
+### Home Page
+
+![Home](ScreenShots/SS.png)
 
 ## Error Handling
 
