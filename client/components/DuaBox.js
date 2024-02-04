@@ -77,7 +77,6 @@ export default function DuaBox({ categoryID }) {
               </div>
               <div className="cursor-pointer">
                 <Image style={{ filter: 'invert(10%) sepia(100%) saturate(10000%) hue-rotate(180deg)' }} src={Report} alt="Report icon"/>
-                {/* style={{ filter: 'grayscale(400%)' }} */}
               </div>
             </div>
 
